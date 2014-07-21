@@ -1,4 +1,4 @@
 yalla
 =====
 
-Yet Another Localization LibrAry
+Yet Another Localization Library (for .Net)
